@@ -16,7 +16,7 @@ How to use:
 
           1) Fill your path to tesseract.exe in file (line #10)
           
-          2) Fill your X smelting furnaces (line #11) (for moded servers only)
+          2) Fill your X smelting furnaces (line #11) (for moded servers only) if your X = 4: 600 metal ==
           
           3) Start program
           
