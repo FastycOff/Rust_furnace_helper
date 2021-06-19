@@ -4,11 +4,11 @@ It will help you with filling up your furnaces in real time.
 
 requirements: 
 
-              cv2, 
-              mss, 
-              PIL, 
-              pytesseract, 
-              keyboard.
+              cv2 
+              mss
+              PIL
+              pytesseract
+              keyboard
               
 How to use:
 
