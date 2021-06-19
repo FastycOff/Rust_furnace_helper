@@ -13,5 +13,6 @@ How to use:
           2) open inventory in rust
           3) chose ore and amount of it.
           
-          ![image](https://user-images.githubusercontent.com/15183327/122649714-ca28a580-d137-11eb-9a85-8f6d49daa7c0.png)
+          ![image](https://user-images.githubusercontent.com/15183327/122649720-dad91b80-d137-11eb-8b7b-7508f3d367df.png)
+
           
