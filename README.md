@@ -9,6 +9,7 @@ requirements: cv2,
               keyboard.
               
 How to use:
+
           1) start program
           
           2) open inventory in rust
