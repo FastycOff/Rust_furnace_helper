@@ -10,11 +10,10 @@ import keyboard
 pytesseract.pytesseract.tesseract_cmd = r"C:\..."
 X_Furnace = 1#(classic Server (x1 furnaces))
 
-
 def pop(msg):
     MessageBox = ctypes.windll.user32.MessageBoxW
     MessageBox(None, msg, 'Window title', 0x40000)
-    os.system('taskkill /fi "WindowTitle eq Administrator: Window title"')
+    
 def scan_resources():
     with mss() as sct:
         mon_name = {"top": 105, "left": 660, "width":170, "height": 35}
