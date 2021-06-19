@@ -15,9 +15,9 @@ How to use:
           2) Open inventory in rust
           
           3) Chose ore and amount of it. 123 metal ore in example.
-          
-![nuljeMH9Jgk](https://user-images.githubusercontent.com/15183327/122649909-d06b5180-d138-11eb-89df-ccf2c06b80c5.jpg)          
+                    
 ![TKi5sLIHw4A](https://user-images.githubusercontent.com/15183327/122649730-ee848200-d137-11eb-8c43-fd04227c5c73.jpg)
+![nuljeMH9Jgk](https://user-images.githubusercontent.com/15183327/122649909-d06b5180-d138-11eb-89df-ccf2c06b80c5.jpg)
 
 
           
