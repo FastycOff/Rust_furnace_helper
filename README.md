@@ -5,6 +5,7 @@ It will help you with filling up your furnaces in real time.
 
 requirements: 
 
+              python
               cv2 
               mss
               PIL
