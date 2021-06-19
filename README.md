@@ -14,3 +14,4 @@ How to use:
           3) chose ore and amount of it.
           
           ![image](https://user-images.githubusercontent.com/15183327/122649714-ca28a580-d137-11eb-9a85-8f6d49daa7c0.png)
+          
