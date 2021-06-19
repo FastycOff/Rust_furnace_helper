@@ -10,7 +10,9 @@ requirements: cv2,
               
 How to use:
           1) start program
+          
           2) open inventory in rust
+          
           3) chose ore and amount of it.
           
           
