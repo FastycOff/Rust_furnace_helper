@@ -15,15 +15,17 @@ How to use:
 
           1) Fill your path to tesseract.exe in file (line #10)
           
-          2) Start program
+          2) Fill your X smelting furnaces (line #11) (for moded servers only)
           
-          3) Open inventory in rust
+          3) Start program
           
-          4) Chose ore and amount of it. (123 metal ore in example).
+          4) Open inventory in rust
           
-          5) Press "Insert".
+          5) Chose ore and amount of it. (123 metal ore in example).
           
-          6) In "pop up" version you will see pop up with your wood and ore amount.
+          6) Press "Insert".
+          
+          7) In "pop up" version you will see pop up with your wood and ore amount.
           
              In "in-game chat" version you will see message in chat with your wood and ore amount.
                     
