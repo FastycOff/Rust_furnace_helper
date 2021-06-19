@@ -29,7 +29,8 @@ How to use:
 ![LvEEbbuqli4](https://user-images.githubusercontent.com/15183327/122650208-48864700-d13a-11eb-86a5-4f6501f9bfb7.jpg)
 
 "Pop Up" version:
-![image](https://user-images.githubusercontent.com/15183327/122650833-abc5a880-d13d-11eb-9595-a2c0448bc8a7.png)
+![zsLPy5q5oQg](https://user-images.githubusercontent.com/15183327/122650875-f2b39e00-d13d-11eb-9563-bc18ad16dd5a.jpg)
+
 
 
 
