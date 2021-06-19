@@ -19,6 +19,7 @@ How to use:
           4) Press "Insert".
           
           5) In "pop up" version you will see pop up with your wood and ore amount.
+          
              In "in-game chat" version you will see message in chat with your wood and ore amount.
                     
 ![TKi5sLIHw4A](https://user-images.githubusercontent.com/15183327/122649730-ee848200-d137-11eb-8c43-fd04227c5c73.jpg)
