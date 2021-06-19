@@ -1,6 +1,7 @@
 # Rust_furnace_helper
 It will help you with filling up your furnaces in real time.
 
+!!May cause errors with numbers less than 100!!!
 
 requirements: 
 
