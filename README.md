@@ -2,7 +2,9 @@
 It will help you with filling up your furnaces in real time.
 
 
-requirements: cv2, 
+requirements: 
+
+              cv2, 
               mss, 
               PIL, 
               pytesseract, 
@@ -10,15 +12,17 @@ requirements: cv2,
               
 How to use:
 
-          1) Start program
+          1) Fill your path to tesseract.exe in file (line #10)
           
-          2) Open inventory in rust
+          2) Start program
           
-          3) Chose ore and amount of it. (123 metal ore in example).
+          3) Open inventory in rust
           
-          4) Press "Insert".
+          4) Chose ore and amount of it. (123 metal ore in example).
           
-          5) In "pop up" version you will see pop up with your wood and ore amount.
+          5) Press "Insert".
+          
+          6) In "pop up" version you will see pop up with your wood and ore amount.
           
              In "in-game chat" version you will see message in chat with your wood and ore amount.
                     
