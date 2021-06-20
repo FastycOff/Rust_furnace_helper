@@ -10,6 +10,7 @@ requirements:
               mss
               PIL
               pytesseract
+              tesseract-ocr
               keyboard
               
 How to use:
